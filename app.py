@@ -1,28 +1,28 @@
-from flask import Flask, render_template_string, redirect, url_for
+from flask import Flask, render_template_string, redirect
 
 app = Flask(__name__)
 
-# ファイル情報
+# ファイル情報（Google Drive 直接ダウンロードリンク + アイコン指定）
 files = [
     {
-      "name": "Fnf Ryouse1 Engine 1.0 Linux.zip",
-      "url": "https://drive.google.com/uc?export=download&id=1-_b_OAw3TmnsDPi0nrCo9X_3BnXeMwu5",
-      "icon": "linux.png"
+        "name": "Fnf Ryouse1 Engine 1.0 Linux.zip",
+        "url": "https://drive.google.com/uc?export=download&id=1-_b_OAw3TmnsDPi0nrCo9X_3BnXeMwu5",
+        "icon": "linux.png"
     },
     {
-      "name": "Fnf Ryouse1 Engine 1.0 macOS.zip",
-      "url": "https://drive.google.com/uc?export=download&id=1GdgGNuesSzqJMvI9bYIAjP5OXAiqJHZ0",
-      "icon": "macos.png"
+        "name": "Fnf Ryouse1 Engine 1.0 macOS.zip",
+        "url": "https://drive.google.com/uc?export=download&id=1GdgGNuesSzqJMvI9bYIAjP5OXAiqJHZ0",
+        "icon": "macos.png"
     },
     {
-      "name": "Fnf Ryouse1 Engine 1.0 windows.zip",
-      "url": "https://drive.google.com/uc?export=download&id=16a4qnb1Sc5G9qvA6MbrI3eQCTYEvNrWX",
-      "icon": "windows.png"
+        "name": "Fnf Ryouse1 Engine 1.0 windows.zip",
+        "url": "https://drive.google.com/uc?export=download&id=16a4qnb1Sc5G9qvA6MbrI3eQCTYEvNrWX",
+        "icon": "windows.png"
     },
     {
-      "name": "Fnf Ryouse1 Engine 1.0",
-      "url": "https://drive.google.com/uc?export=download&id=11wZc0vrPmIsNU7PxsO0SbdbDE6dfiDSo",
-      "icon": "generic.png"
+        "name": "Fnf Ryouse1 Engine 1.0",
+        "url": "https://drive.google.com/uc?export=download&id=11wZc0vrPmIsNU7PxsO0SbdbDE6dfiDSo",
+        "icon": "generic.png"
     }
 ]
 
