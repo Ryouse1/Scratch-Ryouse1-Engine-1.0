@@ -7,7 +7,7 @@ files = [
     {
         "name": "Fnf Ryouse1 Engine 1.0 Linux.zip",
         "url": "https://drive.google.com/uc?export=download&id=1-_b_OAw3TmnsDPi0nrCo9X_3BnXeMwu5",
-        "icon": "linux.PNG"
+        "icon": "linux.JPG"
     },
     {
         "name": "Fnf Ryouse1 Engine 1.0 macOS.zip",
