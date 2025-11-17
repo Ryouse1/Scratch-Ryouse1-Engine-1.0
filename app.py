@@ -7,22 +7,22 @@ files = [
     {
         "name": "Fnf Ryouse1 Engine 1.0 Linux.zip",
         "url": "https://drive.google.com/uc?export=download&id=1-_b_OAw3TmnsDPi0nrCo9X_3BnXeMwu5",
-        "icon": "linux.png"
+        "icon": "linux.PNG"
     },
     {
         "name": "Fnf Ryouse1 Engine 1.0 macOS.zip",
         "url": "https://drive.google.com/uc?export=download&id=1GdgGNuesSzqJMvI9bYIAjP5OXAiqJHZ0",
-        "icon": "macos.png"
+        "icon": "macos.PNG"
     },
     {
         "name": "Fnf Ryouse1 Engine 1.0 windows.zip",
         "url": "https://drive.google.com/uc?export=download&id=16a4qnb1Sc5G9qvA6MbrI3eQCTYEvNrWX",
-        "icon": "windows.png"
+        "icon": "windows.PNG"
     },
     {
         "name": "Fnf Ryouse1 Engine 1.0",
         "url": "https://drive.google.com/uc?export=download&id=11wZc0vrPmIsNU7PxsO0SbdbDE6dfiDSo",
-        "icon": "generic.png"
+        "icon": "generic.PNG"
     }
 ]
 
