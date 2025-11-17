@@ -6,22 +6,22 @@ app = Flask(__name__)
 files = [
     {
         "name": "Fnf Ryouse1 Engine 1.0 Linux.zip",
-        "url": "https://drive.google.com/uc?export=download&id=10MKrUccpHp9zs4aPzZaOaiJDjMKk-bD4",
+        "url": "https://drive.google.com/uc?export=download&id=14uRL7YQ3e0h6OiBwrDzVpvOoCpoUHoV1",
         "icon": "linux.JPG"
     },
     {
-        "name": "Fnf Ryouse1 Engine 1.0 macOS.zip",
-        "url": "https://drive.google.com/uc?export=download&id=1BOStXYYRBtG9f3FIGT-JtzjrmnABRwRa",
+        "name": "Fnf Ryouse1 Engine 1.0 macOS.app",
+        "url": "https://drive.google.com/uc?export=download&id=1lhIoQY_GW-hFkQ0_OM5_lU4CysL7iIwX",
         "icon": "macos.PNG"
     },
     {
-        "name": "Fnf Ryouse1 Engine 1.0 windows.zip",
-        "url": "https://drive.google.com/uc?export=download&id=1tBlqi4ZqUONQbNLMgriVpK3h7vCr1y6C",
+        "name": "Fnf Ryouse1 Engine 1.0 windows.exe",
+        "url": "https://drive.google.com/uc?export=download&id=1dUhyTDyhWSzrsXCZ5qVwDCHsLJ2rT4B7",
         "icon": "windows.PNG"
     },
     {
         "name": "Fnf Ryouse1 Engine 1.0.sb3",
-        "url": "https://drive.google.com/uc?export=download&id=1cEm8Ma4EufIwrirVhOa2u_YQR9nC6Gr6",
+        "url": "https://drive.google.com/uc?export=download&id=1TJHboBty14ZZvxKxreDPUXmcHvCGlFwb/",
         "icon": "generic.PNG"
     }
 ]
