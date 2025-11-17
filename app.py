@@ -20,7 +20,7 @@ files = [
         "icon": "windows.PNG"
     },
     {
-        "name": "Fnf Ryouse1 Engine 1.0",
+        "name": "Fnf Ryouse1 Engine 1.0.sb3",
         "url": "https://drive.google.com/uc?export=download&id=1cEm8Ma4EufIwrirVhOa2u_YQR9nC6Gr6",
         "icon": "generic.PNG"
     }
